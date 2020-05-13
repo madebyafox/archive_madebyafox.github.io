@@ -4,8 +4,16 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-resume/blob/master/LICENSE)
  */
 
+
+/*FONTS */
+
+
+
+
+
 body {
-  font-family: 'Muli', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  /* font-family: 'Muli', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; */
+  font-family: 'Raleway', sans-serif;
   padding-top: 54px;
   color: #868e96;
 }
@@ -25,7 +33,8 @@ h4,
 h5,
 h6 {
   /* font-family: 'Saira Extra Condensed', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; */
-  font-family: Roboto;
+  font-family: 'Roboto', sans-serif;;
+  /* font-family: 'Montserrat', sans-serif; */
   font-weight: 700;
   /* text-transform: uppercase; */
   /* color: #343a40; */
@@ -183,3 +192,5 @@ a {
 a:hover, a:focus, a:active {
   color: #337324;
 }
+
+/*FONTS*/
