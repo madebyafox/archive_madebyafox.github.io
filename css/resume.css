@@ -100,6 +100,8 @@ p.lead {
   font-weight: 800;
   letter-spacing: 0.05rem;
   text-transform: uppercase;
+  text-align: right;
+
 }
 
 #sideNav .navbar-toggler:focus {
@@ -143,6 +145,7 @@ p.lead {
   }
   #sideNav .navbar-collapse .navbar-nav .nav-item {
     display: block;
+    margin-right: 25%;
   }
   #sideNav .navbar-collapse .navbar-nav .nav-item .nav-link {
     display: block;
