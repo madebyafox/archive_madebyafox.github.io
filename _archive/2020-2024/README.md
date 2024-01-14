@@ -5,4 +5,4 @@ The following  redirects must be maintained :
 
 
 
-[using bootstrap template ] 
+[using bootstrap template] 
