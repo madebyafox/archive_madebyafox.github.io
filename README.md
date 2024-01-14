@@ -1,7 +1,7 @@
 The following  redirects must be maintained : 
 
-- in Diagrams 2018 paper  www.amyraefox.com/Scaffolding_Graph_Comprehension 
-- in dissertation document www.amyraefox.com/dissertation 
+- from Diagrams 2018 paper  www.amyraefox.com/Scaffolding_Graph_Comprehension 
+- from dissertation document www.amyraefox.com/dissertation 
 
 
 
